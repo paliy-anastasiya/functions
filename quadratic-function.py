@@ -4,7 +4,7 @@ a = float(input(" The standart quadratic function is ax^2 + bx + c. Enter a: "))
 b = float(input("Enter b: "))
 c = float(input("Enter c: "))
 
-get = input("Press 1 to get characteristics of function, press 2 to get values of function. ")
+get = input("Press 1 to get characteristics of function: ")
 
 def quadratic(a,b,c,x):
     try:
